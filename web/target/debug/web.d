@@ -1,0 +1,1 @@
+C:\Users\nuer_\Downloads\gradle-build-scan-quickstart-main\gradle-build-scan-quickstart-main\RustSurvivalAnalysis\web\target\debug\web.exe: C:\Users\nuer_\Downloads\gradle-build-scan-quickstart-main\gradle-build-scan-quickstart-main\RustSurvivalAnalysis\web\src\main.rs

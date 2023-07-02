@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\nuer_\Downloads\gradle-build-scan-quickstart-main\gradle-build-scan-quickstart-main\RustSurvivalAnalysis\web\target\debug\build\typenum-abea01451a11914f\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\nuer_\Downloads\gradle-build-scan-quickstart-main\gradle-build-scan-quickstart-main\RustSurvivalAnalysis\web\target\debug\build\typenum-abea01451a11914f\out\op.rs
